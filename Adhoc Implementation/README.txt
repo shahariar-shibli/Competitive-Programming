@@ -1,0 +1,1 @@
+Some Adhoc/Implementation problems i have solved in several online judges.
